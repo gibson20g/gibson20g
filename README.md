@@ -10,6 +10,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gibson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
   <img align="center" alt="Gibson-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="right" alt="Gibson-Gif" height="200" width="220" src="https://cdn.discordapp.com/attachments/831533997833453642/877262658494136390/New_Piskel_1.gif">
+
 </div>  
   
 ## Abaixo ficam as linguagens que já tive contato mas não posso dizer que sei.   
@@ -18,7 +20,8 @@
   <img align="center" alt="Gibson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gibson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gibson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gibson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"     
+  <img align="center" alt="Gibson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"   
+     
 </div>
   
   ##  
